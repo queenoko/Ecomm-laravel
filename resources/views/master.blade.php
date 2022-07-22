@@ -27,11 +27,21 @@
     img.slider-img{
         height: 400px !important;
     }
-    .custom-Product{
+    .custom-product{
         height: 600px;
     }
     .slider-text{
         background-color: #222 !important;
+    }
+    .trending-image{
+        height: 100px;
+    }
+    .trending-item{
+        float: left;
+        width: 20%;
+    }
+    .trending-wrapper{
+        margin: 30px;
     }
 </style>
 </html>
